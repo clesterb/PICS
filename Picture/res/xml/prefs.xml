@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<CheckBoxPreference 
+    android:title="MainActivity"
+    android:defaultValue="true"
+    android:key="checkbox1"
+    android:summary="MainActivity"
+    
+    />
+
+<CheckBoxPreference 
+    android:title="Activty2"
+    android:defaultValue="true"
+    android:key="checkbox2"
+    android:summary="Activity2"
+    />
+
+</PreferenceScreen>
